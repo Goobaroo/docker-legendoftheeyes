@@ -1,4 +1,4 @@
-# [FTB Legend of the Eyes](https://feed-the-beast.com/modpack/ftb_legend_of_the_eyes) By FTB
+# [FTB Legend of the Eyes](https://feed-the-beast.com/modpack/102-ftb_legend_of_the_eyes) By FTB
 
 <!-- toc -->
 
