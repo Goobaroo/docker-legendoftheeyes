@@ -7,7 +7,7 @@ LABEL homepage.group=Minecraft
 LABEL homepage.name="FTB Legend of the Eyes"
 LABEL homepage.icon="https://apps.modpacks.ch/modpacks/art/98/ftb-lote-logo-square.png"
 LABEL homepage.widget.type=minecraft
-LABEL homepage.widget.url=Legend-of-the-Eyes:25565
+LABEL homepage.widget.url=udp://Legend-of-the-Eyes:25565
 
 
 RUN apt-get update && apt-get install -y curl && \
