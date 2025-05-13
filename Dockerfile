@@ -5,7 +5,7 @@ FROM openjdk:17.0.2-jdk-buster
 LABEL version="1.9.0"
 LABEL homepage.group=Minecraft
 LABEL homepage.name="FTB Legend of the Eyes"
-LABEL homepage.icon="https://apps.modpacks.ch/modpacks/art/98/ftb-lote-logo-square.png"
+LABEL homepage.icon="https://cdn.feed-the-beast.com/blob/71/71e309c0eb48620984c392f5ebbb1db980d2731b836f190dced8b9cb2e2e32bf.png"
 LABEL homepage.widget.type=minecraft
 LABEL homepage.widget.url=udp://Legend-of-the-Eyes:25565
 
